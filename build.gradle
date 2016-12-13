@@ -1,4 +1,4 @@
-defaultTasks 'showprops', ''clean', 'test', 'assemble'
+defaultTasks 'showprops', 'clean', 'test', 'assemble'
 
 buildscript {
     repositories {
